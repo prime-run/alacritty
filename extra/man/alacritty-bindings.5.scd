@@ -265,6 +265,10 @@ configuration. See *alacritty*(5) for full configuration format documentation.
 :  _"Shift"_
 :  _"Vi|~Search"_
 :  _"FirstOccupied"_
+|  _"_"_
+:  _"Shift"_
+:  _"Vi|~Search"_
+:  _"LastOccupied"_
 |  _"H"_
 :  _"Shift"_
 :  _"Vi|~Search"_
